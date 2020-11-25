@@ -1,13 +1,14 @@
 body {
 margin: 0;
 font-family: Jaapokki, sans-serif;
+color: #FB7BA2;
 text-align: center;
 font-size:1rem;
 margin: auto 10% auto 10%;
 }
 
 h1 {
-margin: 20px auto 30 auto;
+margin: 20px auto 40px auto;
 font-family: Jaapokki, sans-serif;
 color:#6c6c6c;
 font-size: 2rem;
@@ -15,6 +16,19 @@ line-height: 1,1;
 font-weight: normal;
 }
 
+
+.menu {
+  font-family: Jaapokki, sans-serif;
+  color: #FB7BA2;
+  font-size:1rem;
+  margin: auto 10% auto 10%;
+display: inline;
+
+}
+
+.góra {
+  margin-bottom: 40px;
+}
 
 p {
 color: #6C6C6C;
@@ -66,8 +80,12 @@ div {
 height: 30px;
 }
 
+.ikonka2 {
+  height: 29px;
+}
+
 .logo {
-  width: 30%;
+  width: 400px;
 }
 
 .dlaczego {
