@@ -1,0 +1,84 @@
+body {
+margin: 0;
+font-family: Jaapokki, sans-serif;
+text-align: center;
+font-size:1rem;
+margin: auto 10% auto 10%;
+}
+
+h1 {
+margin: 20px auto 30 auto;
+font-family: Jaapokki, sans-serif;
+color:#6c6c6c;
+font-size: 2rem;
+line-height: 1,1;
+font-weight: normal;
+}
+
+
+p {
+color: #6C6C6C;
+display: block;
+font-family: Jaapokki, sans-serif;
+font-size: 2rem;
+line-height: 2;
+margin: 60px 0 60px 0;
+}
+
+
+.pink {
+  color: #FB7BA2;
+font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  line-height: normal;
+}
+
+.kropki {
+  width: 60px;
+}
+
+.little-pink {
+  color: #FB7BA2;
+  font-family: 'Jaapokki', sans-serif;
+  font-size: 2rem;
+  line-height: 2;
+
+}
+
+.little {
+color: #6C6C6C;
+display: block;
+font-family: 'Lato', sans-serif;
+font-size: 1rem;
+
+}
+div {
+  margin: 0 auto 0 auto;
+}
+
+.top-container {
+  margin-top: 40px;
+}
+
+
+
+.ikonka {
+height: 30px;
+}
+
+.logo {
+  width: 30%;
+}
+
+.dlaczego {
+  color: #6C6C6C;
+  font-family: Jaapokki, sans-serif;
+  font-size: 3rem;
+  line-height: normal;
+  }
+
+.big-pink {
+  color: #FB7BA2;
+  font-family: Jaapokki, sans-serif;
+  font-size: 3rem;
+  }
